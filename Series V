@@ -1,0 +1,6 @@
+#python
+n=int(input())
+a=11
+for i in range(0,4*n,4):
+    a=(11+i)**2
+    print(a,end=" ")
