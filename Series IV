@@ -1,0 +1,6 @@
+#python
+n=int(input())
+a=0.5
+for i in range(0,n):
+    print(a,end=' ')
+    a=a+(3**i)
